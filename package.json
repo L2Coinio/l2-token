@@ -1,0 +1,15 @@
+{
+  "name": "l2-token",
+  "version": "1.0.0",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "update": "forge install  --no-commit && forge update",
+    "debug": "forge debug",
+    "test": "forge test",
+    "compile": "forge build"
+  },
+  "license": "GPL-3.0-or-later"
+}
